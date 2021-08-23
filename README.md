@@ -4,6 +4,6 @@ This project aims to make you understand a bit deeper two concets that you alrea
 
 ![Image alt](https://github.com/Sviridovamd/pipex/blob/master/pipex_logo.png)
 
-![Image alt](https://github.com/Sviridovamd/libft/blob/master/libft_pic.png)
+![Image alt](https://github.com/Sviridovamd/pipex/blob/master/pipex_sub.png)
 
 ![Image alt](https://github.com/Sviridovamd/pipex/blob/master/pipex.png)
